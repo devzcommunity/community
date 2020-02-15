@@ -1,6 +1,5 @@
 # #interviews
 
-El propósito de éste documento es listar los recursos recomendados para la preparación de entrevistas técnicas.
 Este documento lista recursos de interés recomendados por miembros del canal `#interviews` para usarse durante la preparación de entrevistas técnicas. 
 
 Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community](https://slack.devz.mx).
