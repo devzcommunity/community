@@ -1,15 +1,20 @@
 # #interviews
 
 El propósito de éste documento es listar los recursos recomendados para la preparación de entrevistas técnicas.
+Este documento lista recursos de interés recomendados por miembros del canal `#interviews` para usarse durante la preparación de entrevistas técnicas. 
 
-## Libros
+Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community](https://slack.devz.mx).
 
-### Algoritmos y estructuras de datos
+## Libros Recomendados
+
+### Algoritmos y Estructuras de Datos
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions  6th Edition](http://www.crackingthecodinginterview.com/)
-### Systems Design
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?crid=XGN4S7QKJJB2&keywords=kleppmann%27s+designing+data-intensive+applications&qid=1581796005&s=books&sprefix=kleppman%2Cstripbooks-intl-ship%2C157&sr=1-1)
+- [The Algorithm Design Manual 2nd Edition](http://www.algorist.com/)
 
-## Recursos en línea
+### Diseño de Sistemas
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://dataintensive.net/)
+
+## Recursos En Línea
 
 - [interviewing.io](https://interviewing.io/): Mock interviews (servicio beta, hay tiempo de espera para el registro).
 - [geeksforgeeks.org](https://www.geeksforgeeks.org/): Problemas y soluciones de algoritmos populares en entrevistas.
@@ -19,5 +24,5 @@ El propósito de éste documento es listar los recursos recomendados para la pre
 - [byte-by-byte.com](https://www.byte-by-byte.com/blog/): Incluye un set de problemas para aprender Dynamic Programing.
 
 
-### Temas técnicos recurrentes en entrevistas
+### Temas Técnicos recurrentes en Entrevistas
 TODO
