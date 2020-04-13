@@ -8,7 +8,7 @@ Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community]
 
 ### Algoritmos y Estructuras de Datos
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions  6th Edition (CTCI)](http://www.crackingthecodinginterview.com/)
-- [The Algorithm Design Manual 2nd Edition](http://www.algorist.com/)
+- [The Algorithm Design Manual 2nd Edition (Skiena)](http://www.algorist.com/)
 - [Introduction to Algorithms 3rd Edition (CLRS)](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 - [Elements of Programming Interviews (EPI)](https://elementsofprogramminginterviews.com/)
 
