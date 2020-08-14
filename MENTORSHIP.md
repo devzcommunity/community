@@ -12,3 +12,4 @@ conocemos. Puedes seguir el canal `#mentorship` para mas información.
 |Gabriel Hernandez|Mock Interviews|https://calendly.com/gabreho/mock-interview|[@gabreho](https://twitter.com/gabreho)|
 |Oscar Gallo|Being like Gallo|https://calendly.com/ogd42/mentor-day|[@Oscar_GalloG](https://twitter.com/Oscar_GalloG)|
 |Tony Martinez|Web, videojuegos, remoteo|https://calendly.com/tonymtz/mentorship|[@_TonyMtz](https://twitter.com/_TonyMtz)|
+|Miguel Enriquez|DevOps, Java, JavaScript, Consulting|https://calendly.com/eldermael/30min|[@Eldermael](https://twitter.com/eldermael)|
