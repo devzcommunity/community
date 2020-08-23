@@ -21,7 +21,8 @@ Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community]
 
 - [interviewing.io](https://interviewing.io/): Mock interviews (servicio beta, hay tiempo de espera para el registro).
 - [geeksforgeeks.org](https://www.geeksforgeeks.org/): Problemas y soluciones de algoritmos populares en entrevistas.
-- [dailycodingproblem.com](https://www.dailycodingproblem.com/): Mailing list
-- [Cracking the Codign Interview Playlist](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK): Youtube playlist de videos de la autora del libro CTCI sobre temas populares.
+- [dailycodingproblem.com](https://www.dailycodingproblem.com/): Mailing list de problemas que han sido preguntados por FAANGs
+- [Cracking the Coding Interview Playlist](https://www.youtube.com/playlist?list=PLOuZYwbmgZWXvkghUyMLdI90IwxbNCiWK): Youtube playlist de videos de la autora del libro CTCI sobre temas populares.
 - [Algoexpert.io](https://www.algoexpert.io/): (tiene costo) set de problemas de entrevistas con tutoriales.
 - [byte-by-byte.com](https://www.byte-by-byte.com/blog/): Incluye un set de problemas para aprender Dynamic Programing.
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/): Incluye una guía completa sobre el proceso de entrevista con un apartado de algoritmos.
