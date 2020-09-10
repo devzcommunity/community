@@ -16,6 +16,7 @@ conocemos. Puedes seguir el canal `#mentorship` para mas información. Al usar l
 |Carlos Flores|Career Coaching, Software Engineering, Interview prep.|https://calendly.com/rcgonzalezf/devz-mentoring-sessions|[@rcgonzalezf](https://twitter.com/rcgonzalezf)|
 |Carlos Ramírez|Web/API Automation, BDD: Robot Framework(Python), SpecFlow(C#), Cucumber(Ruby)|https://calendly.com/cramirez-griego||
 |Jose Salcido|Software Engineering|https://calendly.com/jmsalcidoaguilar/1on1|[@jmsalcido](https://twitter.com/jmsalcido)|
+|Luis Durazo|Tech Leadership, Webdev|calendly.com/luisdurazoa|[@luisdurazoa](https://twitter.com/luisdurazoa)|
 
 
 ## Disclaimer
