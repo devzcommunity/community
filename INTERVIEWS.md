@@ -18,7 +18,7 @@ Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community]
 - [System design primer](https://github.com/donnemartin/system-design-primer) Prepare for the system design interview. Includes Anki flashcards.
 
 ## Recursos En Línea
-
+- [leetcode.com](https://leetcode.com/): Problemas de algoritmos y soluciones, foros sobre entrevistas y problemas.
 - [interviewing.io](https://interviewing.io/): Mock interviews (servicio beta, hay tiempo de espera para el registro).
 - [geeksforgeeks.org](https://www.geeksforgeeks.org/): Problemas y soluciones de algoritmos populares en entrevistas.
 - [dailycodingproblem.com](https://www.dailycodingproblem.com/): Mailing list de problemas que han sido preguntados por FAANGs
