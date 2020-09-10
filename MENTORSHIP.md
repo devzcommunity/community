@@ -11,7 +11,7 @@ conocemos. Puedes seguir el canal `#mentorship` para mas información. Al usar l
 |Vicente Plata|Leadership, career coaching, intl. experience|https://calendly.com/vplata/mentorship|[@xnt](https://twitter.com/xnt)|
 |Gabriel Hernandez|Mock Interviews|https://calendly.com/gabreho/mock-interview|[@gabreho](https://twitter.com/gabreho)|
 |Oscar Gallo|Being like Gallo|https://calendly.com/ogd42/mentor-day|[@Oscar_GalloG](https://twitter.com/Oscar_GalloG)|
-|Tony Martinez|Web, videojuegos, remoteo|https://calendly.com/tonymtz/mentorship|[@_TonyMtz](https://twitter.com/_TonyMtz)|
+|Tony Martinez|I can help you with any of my favorite topics: Web development, Games/Videogames development & Remote working.|https://calendly.com/tonymtz/mentorship|[@_TonyMtz](https://twitter.com/_TonyMtz)|
 |Miguel Enriquez|Architecture, DevOps, Infrastructure, Consulting, Java, JavaScript|https://calendly.com/eldermael/30min|[@Eldermael](https://twitter.com/eldermael)|
 |Carlos Flores|Career Coaching, Software Engineering, Interview prep.|https://calendly.com/rcgonzalezf/devz-mentoring-sessions|[@rcgonzalezf](https://twitter.com/rcgonzalezf)|
 |Carlos Ramírez|Web/API Automation, BDD: Robot Framework(Python), SpecFlow(C#), Cucumber(Ruby)|https://calendly.com/cramirez-griego||
