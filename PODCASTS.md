@@ -13,6 +13,7 @@ Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community]
 ### Programación y temas afines
 |Podcast|Author|Homepage|Plataformas|
 |---|---|---|---|
+|[PirateDevRadio](https://twitter.com/PirateDevRadio)|[@eldermael](https://twitter.com/eldermael), [Geraz69](https://twitter.com/Geraz69)|[Youtube](https://www.youtube.com/channel/UCIQ_yengMK59I2bsL3443sg), [AnchorFM](https://anchor.fm/pirate-dev-radio)|AnchorFM, Spotify, Apple Podcast, etc.|
 
 ### Videojuegos
 |Podcast|Author|Homepage|Plataformas|
