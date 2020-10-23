@@ -1,8 +1,10 @@
 # Publicar ofertas laborales
-Para publicar ofertas laborales en el canal de #jobs, éstas deben de cumplir con ciertos lineamientos que tomen en cuenta tanto el tiempo de los que buscan oportunidades como el de los que las ofrecen:
-- ¿Qué clase de servicio o habilidades requieres para el trabajo?
-- ¿Qué rango de experiencia necesitas de los candidatos?
-- ¿Cuál es el giro del trabajo que ofreces?
+
+Para publicar ofertas laborales en el canal de [#jobs](https://devzcommunity.slack.com/archives/CA0JT62U8), éstas deben de cumplir con ciertos lineamientos para ahorrar tiempo tanto de quienes buscan oportunidades como de los que las ofrecen. Por favor incluir la siguiente información como parte de tu publicación:
+
+- ¿Qué clase de servicio o habilidades se requieren para el trabajo?
+- ¿Qué rango de experiencia de los candidatos es preferible?
+- ¿Cuál es el giro del trabajo ofrecido?
 - ¿Se trata de un trabajo de tiempo completo, medio tiempo, bajo demanda?
-- ¿Cuál es el rango salarial o rate que estás dispuesto a ofrecer?
-- ¿Ofreces beneficios con esta oferta? ¿Se puede trabajar de forma remota? ¿Manejas seguro y beneficios de ley? Describre claramente los términos y condiciones.
+- ¿Cuál es el rango salarial o rate para el puesto?
+- ¿Qué beneficios adicionales se incluyen con la oferta?, ¿se puede trabajar de forma remota?, ¿Se ofrece seguro médico y/o beneficios de ley?. Preferentemente agrega una descripción clara y concisa sobre los términos y condiciones.
