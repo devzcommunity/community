@@ -7,4 +7,4 @@ Para publicar ofertas laborales en el canal de [#jobs](https://devzcommunity.sla
 - ¿Cuál es el giro del trabajo ofrecido?
 - ¿Se trata de un trabajo de tiempo completo, medio tiempo, bajo demanda?
 - ¿Cuál es el rango salarial o rate para el puesto?
-- ¿Qué beneficios adicionales se incluyen con la oferta?, ¿se puede trabajar de forma remota?, ¿Se ofrece seguro médico y/o beneficios de ley?. Preferentemente agrega una descripción clara y concisa sobre los términos y condiciones.
+- ¿Qué beneficios adicionales se incluyen con la oferta?, ¿se puede trabajar de forma remota?, ¿se ofrece seguro médico y/o beneficios de ley?. Preferentemente agrega una descripción clara y concisa sobre los términos y condiciones.
