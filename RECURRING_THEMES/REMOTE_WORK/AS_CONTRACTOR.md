@@ -46,7 +46,11 @@ de [esta tabla](https://www.irs.gov/pub/irs-utl/Tax_Treaty_Table_1_2019_Feb.pdf)
 
 Si la empresa no sabe de ella puedes comentarle algo como:
 
-> Como parte del NDA/MSA/SOW etc le mando una copia de la forma W8-BEN llenada y firmada para que la usen en sus libros.
+> As part of the NDA/MSA/SOW/etc I am sending you a copy of the completed and signed W8-BEN form for you to use in your books.
+
+Más detalles:
+
+> The form can be used to show ownership of income or a US bank account and is used to let the IRS know **money is being taxed elsewhere to avoid double taxation**. If it is used to declare ownership of income, it should be filled out by the person who would be subject to filling out a US tax return if they were a US citizen. 
 
 Aquí hay otro par de guías con más detalles de esta forma:
 
