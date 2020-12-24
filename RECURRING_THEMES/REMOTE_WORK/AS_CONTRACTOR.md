@@ -36,7 +36,7 @@ Algunos riesgos que tienes que tomar en cuenta son si se termina la relación no
 no hay un _no-client-pool_ donde puedas permanecer en lo que consigues otro cliente. Aunque seas uno de los
 miembros más importantes del equipo, las startups siempre corren el riesgo de quedarse sin fondeo y terminan haciendo 
 recortes. En resumen, si te lanzas a remotear, te pueden correr de un día para otro y es recomendable estar preparada 
-para ello.
+para ello. Es muy recomendable tener un [fondo de emergencias](https://www.wisebread.com/figuring-the-size-of-your-emergency-fund#:~:text=The%20usual%20rule%20of%20thumb,your%20spending%2C%20not%20your%20income.).
 
 # Documentación
 
