@@ -30,6 +30,7 @@ Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community]
 |Tópicos|Podcast|Author|Homepage|Plataformas|
 |---|---|---|---|---|
 |Tecnología|[Javifloat: Tecnología y gadgets](https://podcasts.apple.com/mx/podcast/javifloat-tecnologia-y-gadgets/id1375675213)|Javier Murillo|[Apple Podcasts](https://podcasts.apple.com/mx/podcast/javifloat-tecnologia-y-gadgets/id1375675213)|Apple Podcast|
+|Opinion Personal|[Jose Salcido: Algo asi es vivir en mi cabeza](https://anchor.fm/algoasiesvivirenmicabeza/)|Jose Salcido|[AnchorFM](https://anchor.fm/algoasiesvivirenmicabeza/)|AnchorFM, Spotify, Apple Podcast, Google Podcast, etc.|
 
 ## Disclaimer
 
