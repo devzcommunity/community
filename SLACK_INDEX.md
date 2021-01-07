@@ -2,7 +2,7 @@
 
 [`#devz`](https://devzcommunity.slack.com/archives/C0PC127SB) Canal principal, comunicaciones generales de la comunidad, a veces temas random.
 
-[`#interviews`](https://devzcommunity.slack.com/archives/CSYEUG5TM) Para entrenar en entrevistas (generalmente basadas en algoritmos, tipo FAANG). Pregunta si alguién quiere practicar. También puedes checar [este página](INTERVIEWS.md).
+[`#interviews`](https://devzcommunity.slack.com/archives/CSYEUG5TM) Para entrenar en entrevistas (generalmente basadas en algoritmos, tipo FAANG). Pregunta si alguién quiere practicar. También puedes checar [esta página](INTERVIEWS.md).
 
 [`#mentorship`](https://devzcommunity.slack.com/archives/C018TTPEX7V) Usamos este canal para recibir o dar mentorias a otros miembros. Si requieres una mentoría personalizada checa [el directorio](MENTORSHIP.md)
 
