@@ -4,7 +4,7 @@
 
 [`#interviews`](https://devzcommunity.slack.com/archives/CSYEUG5TM) Para entrenar en entrevistas (generalmente basadas en algoritmos, tipo FAANG). Pregunta si alguién quiere practicar. También puedes checar [esta página](INTERVIEWS.md).
 
-[`#mentorship`](https://devzcommunity.slack.com/archives/C018TTPEX7V) Usamos este canal para recibir o dar mentorias a otros miembros. Si requieres una mentoría personalizada checa [el directorio](MENTORSHIP.md)
+[`#mentorship`](https://devzcommunity.slack.com/archives/C018TTPEX7V) Usamos este canal para recibir o dar mentorías a otros miembros. Si requieres una mentoría personalizada checa [el directorio](MENTORSHIP.md)
 
 [`#pimp-my-resume`](https://devzcommunity.slack.com/archives/C019FUPD68Z) Para recibir o dar ayuda revisando y mejorando [tu resume](https://medium.com/free-code-camp/writing-a-killer-software-engineering-resume-b11c91ef699d). 
 
