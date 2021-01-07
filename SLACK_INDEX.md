@@ -12,9 +12,9 @@
 
 [`#finance`](https://devzcommunity.slack.com/archives/CE3T905MK) Información acerca de ahorro, inversiones, seguros, impuestos, etc.
 
-[`#jobs`](https://devzcommunity.slack.com/archives/CA0JT62U8) Postemamos y discutimos vacantes. Hay [algunas reglas](POSTING_JOBS.md) que tratamos de seguir.
+[`#jobs`](https://devzcommunity.slack.com/archives/CA0JT62U8) Posteamos y discutimos vacantes. Hay [algunas reglas](POSTING_JOBS.md) que tratamos de seguir.
 
-[`#content`](https://devzcommunity.slack.com/archives/C9WBFTZ5H) Tienes un blog, un podcast, canal de youtube twich? aquí puedes compartirlo.
+[`#content`](https://devzcommunity.slack.com/archives/C9WBFTZ5H) ¿Tienes un blog, un podcast, canal de YouTube Twitch? Aquí puedes compartirlo.
 
 [`#fitness`](https://devzcommunity.slack.com/archives/CAKQ4MTL3) Para quienes hacen ejercicio y dieta.
 
