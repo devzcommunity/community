@@ -9,7 +9,7 @@ Para lograr este objetivo, es de suma importancia que todos sigamos una serie de
 - Participa de una manera activa y auténtica. De esta manera estarás contribuyendo a la salud y longevidad de la comunidad.
 - Practica consideración, empatía y respeto en lo que dices y haces. Recuerda que todos hemos pasado por las diferentes etapas de experiencia al adoptar una nueva tecnología.
 - Evita comentarios y acciones degradantes, discriminatorios, o que fomenten el acoso o la violencia.
-- Está bien estar en desacuerdo con alguien; discutir, ofender, o trollear a alguien no está bien.
+- Está bien estar en desacuerdo con alguien; ofender, trollear, o pelear con alguien no está bien.
 
 ## Cómo NO comportarse ❌
 - NO hagas amenazas o uses lenguaje violento dirigido hacia otra persona
