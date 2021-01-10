@@ -22,3 +22,6 @@ Para lograr este objetivo, es de suma importancia que todos sigamos una serie de
 
 ## Cómo reportar violaciones al código
 Si notas a alguien comportándose de manera inadecuada o violando el código de conducta y si después de hablar con ellos mantienen su comportamiento, o simplemente prefieres no confrontarlos, comunícate con uno de los moderadores de la comunidad: Eduardo Urias, Vicente Plata, Yesi Diaz, Pedro Rojas, Ivan Esparza. 
+
+----------------------
+Este código de conducta se basa en el código de conducta de [la comunidad de Kotlin](https://kotlinlang.org/community/slackccugl.html)
