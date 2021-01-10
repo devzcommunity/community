@@ -1,5 +1,7 @@
 ## Índice de canales en Slack
 
+Puedes unirte al slack de la comunidad a través de [éste enlace.](https://slack.devz.mx)
+
 [`#devz`](https://devzcommunity.slack.com/archives/C0PC127SB) Canal principal, comunicaciones generales de la comunidad, a veces temas random.
 
 [`#interviews`](https://devzcommunity.slack.com/archives/CSYEUG5TM) Para entrenar en entrevistas (generalmente basadas en algoritmos, tipo FAANG). Pregunta si alguién quiere practicar. También puedes checar [esta página](INTERVIEWS.md).
