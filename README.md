@@ -5,7 +5,7 @@
   <img src="https://devz.mx/content/images/2018/09/DEVZ_Logo-05.png" alt="devz_logo"  width="150" margin="">
 </div>
 
-#### 👋 Hola y bienvenido a la comunidad de desarrolladores que harán que crezcas exponencialmente en tu carrera como dev.
+#### 👋 ¡Hola! Te damos la bienvenida a la comunidad de desarrollo que hará que crezcas exponencialmente en tu carrera como dev.
 
 Devz es una comunidad donde desarrolladores de distintos niveles se ayudan entre si para progresar en su vida profesional.
 
