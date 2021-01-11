@@ -7,7 +7,9 @@
 
 #### 👋 Hola y bienvenido a la comunidad de desarrolladores que harán que crezcas exponencialmente en tu carrera como dev.
 
-Encuentranos en:
+Devz es una comunidad donde desarrolladores de distintos niveles se ayudan entre si para progresar en su vida profesional.
+
+Encuéntranos en:
 
 - [Facebook](https://www.facebook.com/DevzCommunity)
 - [Blog](https://devz.mx/)
