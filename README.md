@@ -7,7 +7,7 @@
 
 #### 👋 ¡Hola! Te damos la bienvenida a la comunidad de desarrollo que hará que crezcas exponencialmente en tu carrera como dev.
 
-Devz es una comunidad donde desarrolladores de distintos niveles se ayudan entre si para progresar en su vida profesional.
+Devz es una comunidad donde personas dedicadas al desarrollo con distintos niveles se ayudan entre sí para progresar en su vida profesional.
 
 Encuéntranos en:
 
