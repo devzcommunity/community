@@ -19,7 +19,7 @@ Unete a la conversación en el [Slack de Devz Community](https://slack.devz.mx) 
 
 Ademas:
 
-- 🎙 Escucha a las voces de los DEVZ en los [podcast](https://github.com/devzcommunity/community/blob/master/PODCASTS.md) de la comunidad.
+- 🎙 Escucha algunas de nuestras voces en los [podcasts](https://github.com/devzcommunity/community/blob/master/PODCASTS.md) de la comunidad.
 - 👥 Recibe mentorías de personas expertas en nuestras [MENTORSHIPS](https://github.com/devzcommunity/community/blob/master/MENTORSHIP.md).
 - 💼 Explora nuestras recomendaciones para destacar en tus [entrevistas de trabajo](https://github.com/devzcommunity/community/blob/master/INTERVIEWS.md).
 - 🌎 Revisa nuestros consejos para [trabajar remotamente](https://github.com/devzcommunity/community/blob/master/RECURRING_THEMES/REMOTE_WORK/AS_CONTRACTOR.md).
