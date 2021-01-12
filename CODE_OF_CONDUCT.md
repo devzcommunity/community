@@ -2,7 +2,7 @@
 
 Devz community busca ser un espacio inclusivo comprometido a proveer un ambiente seguro, amigable y en el que cualquiera pueda participar sin importar género, orientación sexual, habilidades, raza, estatus socioeconómico, o religión.
 
-Para lograr este objetivo, es de suma importancia que todos sigamos una serie de lineamientos básicos y que nos apeguemos al código de conducta. Por favor lee este documento en su totalidad, en él encontrarás información práctica que te ayudará a contribuir a una sana convivencia.
+Para lograr este objetivo, es de suma importancia que sigamos una serie de lineamientos básicos y que nos apeguemos al código de conducta. Por favor lee este documento en su totalidad, en él encontrarás información práctica que te ayudará a contribuir a una sana convivencia.
 
 ## Cómo comportarse ✅
 
