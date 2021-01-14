@@ -18,7 +18,7 @@ Para lograr este objetivo, es de suma importancia que sigamos una serie de linea
 - NO publiques ni amenaces en publicar información personal de otras personas ("doxing").
 - NO hagas insultos personales, particularmente insultos relacionados con género, orientación sexual, raza, religión, o discapacidad.
 - NO te involucres en atención sexual. Esto involucra comentarios sexualizados, chistes, o insinuaciones sexuales.
-- No defiendas o promuevas ninguno de los puntos anteriores
+- No defiendas o promuevas ninguno de los puntos anteriores.
 
 ## Cómo reportar violaciones al código ⚠
 Si notas a alguien comportándose de manera inadecuada o violando el código de conducta y si después de hablar con ellos mantienen su comportamiento, o simplemente prefieres no confrontarlos, comunícate con uno de los moderadores de la comunidad: Eduardo Urias, Vicente Plata, Yesi Diaz, Pedro Rojas, Ivan Esparza. 
