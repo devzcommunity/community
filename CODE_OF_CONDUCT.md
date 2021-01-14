@@ -13,7 +13,7 @@ Para lograr este objetivo, es de suma importancia que sigamos una serie de linea
 
 ## Cómo NO comportarse ❌
 - NO hagas amenazas o uses lenguaje violento dirigido hacia otra persona.
-- NO hagas chistes ni uses lenguaje sexista, racista, homofóbico, transfóbico, o de naturaleza discriminatoria
+- NO hagas chistes ni uses lenguaje sexista, racista, homofóbico, transfóbico, o de naturaleza discriminatoria.
 - NO publiques ni muestres material violento o sexualmente explícito
 - NO publiques ni amenaces en publicar información personal de otras personas ("doxing")
 - NO hagas insultos personales, particularmente insultos relacionados con género, orientación sexual, raza, religión, o discapacidad
