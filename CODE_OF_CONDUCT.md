@@ -17,7 +17,7 @@ Para lograr este objetivo, es de suma importancia que sigamos una serie de linea
 - NO publiques ni muestres material violento o sexualmente explícito.
 - NO publiques ni amenaces en publicar información personal de otras personas ("doxing").
 - NO hagas insultos personales, particularmente insultos relacionados con género, orientación sexual, raza, religión, o discapacidad.
-- NO te involucres en atención sexual. Esto involucra comentarios sexualizados, chistes, o insinuaciones sexuales
+- NO te involucres en atención sexual. Esto involucra comentarios sexualizados, chistes, o insinuaciones sexuales.
 - No defiendas o promuevas ninguno de los puntos anteriores
 
 ## Cómo reportar violaciones al código ⚠
