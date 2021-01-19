@@ -1,9 +1,18 @@
 # DEVZ Community
+<p align="right">
+<a href="https://discord.gg/E43F8uPGpT" alt="Discord">
+  <img src="https://img.shields.io/discord/637679756988383253?color=7289DA&label=devzcord&style=for-the-badge&logo=discord" /></a>
+<a href="https://slack.devz.mx" alt="Slack">
+  <img src="https://img.shields.io/badge/devzlack-join%20us-black?logo=slack&link=https://slack.devz.mx&style=for-the-badge" /></a>
+<a href="https://fb.com/groups/DevzCommunity" alt="FB Group">
+  <img src="https://img.shields.io/badge/fb-join-blue?logo=facebook&link=https://www.fb.com/groups/DevzCommunity&style=for-the-badge&color=darkblue" /></a>
+</p>
+
 ###### Repositorio con temas centrales respecto a la comunidad
 
-<div align="center" >
-  <img src="https://devz.mx/content/images/2018/09/DEVZ_Logo-05.png" alt="devz_logo"  width="150" margin="">
-</div>
+<p align="center">
+  <img src="https://devz.mx/content/images/2018/09/DEVZ_Logo-05.png" alt="devz logo"  width="150" margin="">
+ </p>
 
 #### 👋 ¡Hola! Te damos la bienvenida a la comunidad de desarrollo que hará que crezcas exponencialmente en tu carrera como dev.
 
