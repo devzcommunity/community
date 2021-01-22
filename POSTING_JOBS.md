@@ -6,5 +6,5 @@ Para publicar ofertas laborales en el canal de [#jobs](https://devzcommunity.sla
 - ¿Qué rango de experiencia de los candidatos es preferible?
 - ¿Cuál es el giro del trabajo ofrecido?
 - ¿Se trata de un trabajo de tiempo completo, medio tiempo, bajo demanda?
-- ¿Cuál es el rango salarial o rate para el puesto?
+- ¿Cuál es el rango salarial o rate para el puesto? Especificar la moneda (p. ej. USD o MXN)
 - ¿Qué beneficios adicionales se incluyen con la oferta?, ¿se puede trabajar de forma remota?, ¿se ofrece seguro médico y/o beneficios de ley?. Preferentemente agrega una descripción clara y concisa sobre los términos y condiciones.
