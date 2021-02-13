@@ -15,6 +15,8 @@ Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community]
 |---|---|---|---|
 |[PirateDevRadio](https://twitter.com/PirateDevRadio)|[@eldermael](https://twitter.com/eldermael), [Geraz69](https://twitter.com/Geraz69)|[Youtube](https://www.youtube.com/channel/UCIQ_yengMK59I2bsL3443sg), [AnchorFM](https://anchor.fm/pirate-dev-radio)|AnchorFM, Spotify, Apple Podcast, etc.|
 |[Let Swift](https://twitter.com/letswiftpodcast)|[@pitt500](https://twitter.com/pitt500), [angelMoralesK](https://twitter.com/angelmoralesk)|[AnchorFM](https://anchor.fm/let-swift-podcast)|AnchorFM, Spotify, Apple Podcast, etc.|
+|[My typeof Radio](https://twitter.com/mytypeofradio)|[Arturo Mosqueda](https://twitter.com/ArturoMChavez), [Noemí León](https://twitter.com/noeleo25), [Axel Martínez](https://twitter.com/_ackzell)|[mytypeof.dev](https://www.mytypeof.dev)|BuzzSprout, Spotify, Apple Podcast, etc.|
+
 
 ### Videojuegos
 |Podcast|Author|Homepage|Plataformas|
