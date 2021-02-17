@@ -4,6 +4,21 @@ Devz community busca ser un espacio inclusivo comprometido a proveer un ambiente
 
 Para lograr este objetivo, es de suma importancia que sigamos una serie de lineamientos básicos y que nos apeguemos al código de conducta. Por favor lee este documento en su totalidad, en él encontrarás información práctica que te ayudará a contribuir a una sana convivencia.
 
+## Alineando esfuerzos
+
+Los esfuerzos de Devz Community se enfocan a generar un espacio sano que promueva tu desarrollo profesional. 
+
+Definimos desarrollo profesional como actividades, actitud y conocimiento que potencialmente te lleva a incrementar alguna de las siguientes dimensiones de manera cuantitativa o cualitativa:
+
+- Ingreso económico
+- Aprovechamiento de tu capital financiero o técnico
+- Manejo de tiempo
+- Responsabilidades e impacto profesional
+- Networking
+- Salud y bienestar físico y mental (incluyendo memes no ofensivos)
+
+La administración se reserva el derecho de eliminar mensajes y contenido que considere que no cumplen con lo anterior, incluyendo temas de política u organización financiera no afines a los puntos arriba mencionados, o discusiones futiles o prepósteras.
+
 ## Cómo comportarse ✅
 
 - Participa de una manera activa y auténtica. De esta manera estarás contribuyendo a la salud y longevidad de la comunidad.
