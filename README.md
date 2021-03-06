@@ -32,3 +32,4 @@ Ademas:
 - 👥 Recibe mentorías de personas expertas en nuestras [MENTORSHIPS](https://github.com/devzcommunity/community/blob/master/MENTORSHIP.md).
 - 💼 Explora nuestras recomendaciones para destacar en tus [entrevistas de trabajo](https://github.com/devzcommunity/community/blob/master/INTERVIEWS.md).
 - 🌎 Revisa nuestros consejos para [trabajar remotamente](https://github.com/devzcommunity/community/blob/master/RECURRING_THEMES/REMOTE_WORK/AS_CONTRACTOR.md).
+- 🧢 Busca gorras, playeras, hoodies, stickers y más en nuestra [Tienda de Swag](https://swag.devz.mx)
