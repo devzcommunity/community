@@ -26,3 +26,4 @@ Te invitamos a ser parte de la comunidad ingresando al [Slack de Devz Community]
 - [Algoexpert.io](https://www.algoexpert.io/): (tiene costo) set de problemas de entrevistas con tutoriales.
 - [byte-by-byte.com](https://www.byte-by-byte.com/blog/): Incluye un set de problemas para aprender Dynamic Programing.
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/): Incluye una guía completa sobre el proceso de entrevista con un apartado de algoritmos.
+- [CodeSignal](https://codesignal.com/): Problemas de algoritmos. Tiene un apartado de Interview Practice con problemas divididos por temas. Soporta 38 lenguajes de programación.
