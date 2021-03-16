@@ -12,7 +12,7 @@ Puedes unirte al slack de la comunidad a través de [éste enlace.](https://slac
 
 [`#finance`](https://devzcommunity.slack.com/archives/CE3T905MK) Información acerca de ahorro, inversiones, seguros, impuestos, etc.
 
-[`#interviews`](https://devzcommunity.slack.com/archives/CSYEUG5TM) Para entrenar en entrevistas (generalmente basadas en algoritmos, tipo FAANG). Pregunta si alguién quiere practicar. También puedes checar [esta página](INTERVIEWS.md).
+[`#interviews`](https://devzcommunity.slack.com/archives/CSYEUG5TM) Para entrenar en entrevistas (generalmente basadas en algoritmos, tipo FAANG). Pregunta si alguien quiere practicar. También puedes checar [esta página](INTERVIEWS.md).
 
 [`#jobs`](https://devzcommunity.slack.com/archives/CA0JT62U8) Posteamos y discutimos vacantes. **Importante:** Hay [algunas reglas](POSTING_JOBS.md) que tratamos de seguir.
 
