@@ -1,4 +1,4 @@
-# DEVZ Community
+# Devz Community
 <p align="right">
 <a href="https://discord.gg/E43F8uPGpT" alt="Discord">
   <img src="https://img.shields.io/discord/637679756988383253?color=7289DA&label=devzcord&style=for-the-badge&logo=discord" /></a>
