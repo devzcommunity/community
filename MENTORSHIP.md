@@ -12,7 +12,7 @@ conocemos. Puedes seguir el canal `#mentorship` para mas información. Al usar l
 |Gabriel Hernandez|Mock Interviews|https://calendly.com/gabreho/mock-interview|[@gabreho](https://twitter.com/gabreho)|
 |Oscar Gallo|Being like Gallo|https://calendly.com/ogd42/mentor-day|[@Oscar_GalloG](https://twitter.com/Oscar_GalloG)|
 |Tony Martinez|I can help you with any of my favorite topics: Web development, Games/Videogames development & Remote working.|https://calendly.com/tonymtz/mentorship|[@_TonyMtz](https://twitter.com/_TonyMtz)|
-|Miguel Enriquez|Architecture, DevOps, Infrastructure, Consulting, Java, JavaScript|https://calendly.com/eldermael/30min|[@Eldermael](https://twitter.com/eldermael)|
+|Miguel Enriquez|Architecture, Microservices, DevOps, SRE, Consulting, Tech Leadership, Team Productivity, Java, Javascript.|https://calendly.com/eldermael/mentoria|[@Eldermael](https://twitter.com/eldermael)|
 |Carlos Flores|Career Coaching, Software Engineering, Interview prep.|https://calendly.com/rcgonzalezf/devz-mentoring-sessions|[@rcgonzalezf](https://twitter.com/rcgonzalezf)|
 |Carlos Ramírez|Web/API Automation, BDD: Robot Framework(Python), SpecFlow(C#), Cucumber(Ruby)|https://calendly.com/cramirez-griego||
 |Jose Salcido|Software Engineering|https://calendly.com/jmsalcidoaguilar/1on1|[@jmsalcido](https://twitter.com/jmsalcido)|
