@@ -6,7 +6,7 @@ conocemos. Puedes seguir el canal `#mentorship` para mas información. Al usar l
 |Quién|Qué|Dónde|Twitter|
 |---|---|---|---|
 |Iván Esparza|Entrevistas, Android|https://calendly.com/ivanesparza|[@ivanebernal](https://twitter.com/ivanebernal)|
-|Pedro Rojas|Entrevistas, iOS|https://calendly.com/pedrorojas|[@pitt500](https://twitter.com/pitt500)|
+|Pedro Rojas|Entrevistas, iOS, Leadership|https://calendly.com/pedrorojas|[@pitt500](https://twitter.com/pitt500)|
 |Eduardo Urias|Product management, software architecture, pricing/negotiation, web security |https://calendly.com/kzrlabs/devz-1-1|[@larsx2](https://twitter.com/larsx2)|
 |Vicente Plata|Leadership, career coaching, intl. experience|https://calendly.com/vplata/mentorship|[@xnt](https://twitter.com/xnt)|
 |Gabriel Hernandez|Mock Interviews|https://calendly.com/gabreho/mock-interview|[@gabreho](https://twitter.com/gabreho)|
