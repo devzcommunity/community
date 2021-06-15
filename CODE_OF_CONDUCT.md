@@ -33,10 +33,11 @@ La administración se reserva el derecho de eliminar mensajes y contenido que co
 - NO publiques ni amenaces en publicar información personal de otras personas ("doxing").
 - NO hagas insultos personales, particularmente insultos relacionados con género, orientación sexual, raza, religión, o discapacidad.
 - NO te involucres en atención sexual. Esto involucra comentarios sexualizados, chistes, o insinuaciones sexuales.
+- No se tolerará el SPAM. Esto puede ser mensajes repetitivos o mensajes que busquen aprovecharse de miembros de la comunidad.
 - No defiendas o promuevas ninguno de los puntos anteriores.
 
 ## Cómo reportar violaciones al código ⚠
-Si notas a alguien comportándose de manera inadecuada o violando el código de conducta y si después de hablar con ellos mantienen su comportamiento, o simplemente prefieres no confrontarlos, comunícate con uno de los moderadores de la comunidad: Eduardo Urias, Vicente Plata, Yesi Diaz, Pedro Rojas, Ivan Esparza. 
+Si notas a alguien comportándose de manera inadecuada o violando el código de conducta y si después de hablar con ellos mantienen su comportamiento, o simplemente prefieres no confrontarlos, comunícate con uno de los moderadores de la comunidad: Eduardo Urias, Yesi Diaz, Ivan Esparza. 
 
 ----------------------
 Este código de conducta se basa en el código de conducta de [la comunidad de Kotlin](https://kotlinlang.org/community/slackccugl.html)
