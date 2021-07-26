@@ -17,7 +17,6 @@ conocemos. Puedes seguir el canal `#mentorship` para mas información. Al usar l
 |Carlos Ramírez|Web/API Automation, BDD: Robot Framework(Python), SpecFlow(C#), Cucumber(Ruby)|https://calendly.com/cramirez-griego||
 |Jose Salcido|Software Engineering|https://calendly.com/jmsalcidoaguilar/1on1|[@jmsalcido](https://twitter.com/jmsalcido)|
 |Luis Durazo|Tech Leadership, Webdev|https://calendly.com/luisdurazoa|[@luisdurazoa](https://twitter.com/luisdurazoa)|
-|Francisco "Bobby" Soto|Career Coaching, Interviews, Architecture, Engineering|https://calendly.com/ebobby|[@_ebobby](https://twitter.com/_ebobby)|
 |Isaac "Dagon"|Video game industry, C/C++, asm, UnrealEngine4, in-house tech,Network protocols, AI, SoftwareEngineering, Automation|https://calendly.com/isaacdagon|[@dagonmeister](https://twitter.com/dagonmeister)|
 
 ## Disclaimer
