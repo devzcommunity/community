@@ -14,7 +14,7 @@ Estos son algunos puntos a tener en cuenta:
 * Si eres nuevo pagando impuestos puedes entrar en el Regimen de Incorporación Fiscal (RIF). Para empezar a pagar
 gradualmente ISR (el primer año no pagas, el segundo pagas 10%, etc). Como desventajas de estar en el RIF es que está 
 limitado a 2 millones de pesos al año y no puedes tener cuentas de inversión.
-* Tendrás que emitir comprobastes fiscales a un RFC genérico para extranjeros `XAXX010101000`.
+* Tendrás que emitir comprobastes fiscales a un RFC genérico para extranjeros `XEXX010101000`.
 * Este trabajo cuenta como exportacion de servicios al extranjero, por lo tanto puedes emitir estos comprobantes con IVA a tasa 0%, sin 
 embargo esto sube la base de cálculo para ISR, consúltalo con tu contadora de confianza.
 * Deduce lo más que puedas, entre las cosas que puedes deducir están:
