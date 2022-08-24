@@ -8,6 +8,8 @@ Si has decidido lanzarte a trabajar como contractor para una empresa en el extra
 con una contadora, trata de averiguar todos los detalles de la operación, como te pagaran, cada cuanto y con eso 
 pregunta todas tus dudas a tu contadora. 
 
+> NOTA: Desde Enero del 2022, existe un nuevo régimen para pesonas físicas llamado `RESICO` con mejores incentivos fiscales en términos de ISR y límite de hasta 3.5M con algunas restricciones similares a RIF. Para mayor información véase este [enlace](http://omawww.sat.gob.mx/RegimenSimplificadodeConfianza/Paginas/documentos/Preguntas_frecuentes_RSC_PF.pdf).
+
 Estos son algunos puntos a tener en cuenta:
 
 * Es mejor que tengas todo en regla. No trates de darle la vuelta con una cuenta en Belize o las islas caimán, o haciendo que le depositen a tu primo. 
